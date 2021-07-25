@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1883" height="391" viewBox="0 0 1883 391">
+  <defs>
+    <filter id="Engineering" x="0" y="0" width="1883" height="391" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.5" result="blur"/>
+      <feFlood flood-opacity="0.063"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Engineering)">
+    <text id="Engineering-2" data-name="Engineering" transform="translate(13.5 302.5)" fill="#fff" font-size="320" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Engineering</tspan></text>
+  </g>
+</svg>

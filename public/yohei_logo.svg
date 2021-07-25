@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <g id="yohei_icon" transform="translate(-831 -397)">
+    <g id="circle" transform="translate(831 397)" fill="#fff" stroke="#000" stroke-width="16">
+      <circle cx="150" cy="150" r="150" stroke="none"/>
+      <circle cx="150" cy="150" r="142" fill="none"/>
+    </g>
+    <g id="snake" transform="translate(-415.589 927.37) rotate(-30)">
+      <text id="S" transform="translate(1327.673 428.751)" font-size="183" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">S</tspan></text>
+      <g id="hide_edge_of_s" transform="translate(1412.537 290.063)" fill="#fff" stroke="#fff" stroke-width="1">
+        <rect width="45" height="64" stroke="none"/>
+        <rect x="0.5" y="0.5" width="44" height="63" fill="none"/>
+      </g>
+      <g id="snake_face" transform="matrix(0.914, 0.407, -0.407, 0.914, 1405.621, 286.543)">
+        <path id="face_shape" d="M3.563,10.237A70.7,70.7,0,0,1,10.9,14.227c1.384,1.2,5.916,8.569,9.107,10.547,3.934,2.439,6.256,2.762,6.256,2.762a45.959,45.959,0,0,1-5.45-5.983c-1.862-2.687-.806-6.868-.806-6.868a28.491,28.491,0,0,1,6.946-3.273,17.507,17.507,0,0,1,6.248-.437c3.544.464,1.788,5.637,1.788,5.637s7.825-3.443,8.273-9.258C43.483,4.5,26.808.713,11.68,0c0,0-10.123.351-13.03,1.835" transform="translate(0 0.126)" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <g id="eye" transform="translate(22.816 3.359)" fill="#fff" stroke="#000" stroke-width="1">
+          <ellipse cx="3" cy="3" rx="3" ry="3" stroke="none"/>
+          <ellipse cx="3" cy="3" rx="2.5" ry="2.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Y" transform="translate(53 -297)">
+      <path id="パス_1" data-name="パス 1" d="M974,887.4l59.507-96.631h26.371L984.5,906.148v82.741H974" transform="translate(-46 2)" stroke="#000" stroke-width="1"/>
+      <path id="パス_2" data-name="パス 2" d="M1059.878,887.4l-59.507-96.631H974l75.383,115.384v82.741h10.5" transform="translate(-131 2)" stroke="#000" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
