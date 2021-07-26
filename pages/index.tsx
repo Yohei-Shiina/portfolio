@@ -47,10 +47,10 @@ export default function Home() {
               Japanese-made web application developer
             </div>
             <p className="text-gray-500 md:text-2xl 2xl:text-3xl md:my-6">
-              Over the past 3 years I’ve worked for a big programming school in
-              Japan and taught more than 100 aspiring programmers and currently
-              working and developing web applications for an up-and-coming
-              software company.
+              Over the past 3 years I’ve worked for one of the leading
+              programming schools in Japan and taught more than 100 new learners
+              and currently working and developing web applications for an
+              up-and-coming software company.
             </p>
           </div>
         </section>
