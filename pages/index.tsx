@@ -34,11 +34,11 @@ export default function Home() {
           </div>
         </div>
         {/* background image picture myself */}
-        <div className="bg-myself absolute h-2/3 md:h-screen w-screen md:w-1/3 bg-right md:right-10% bg-contain bg-no-repeat -z-10"></div>
+        <div className="bg-myself absolute h-2/3 md:h-5/6 w-screen md:w-1/3 bg-right md:right-10% bg-contain bg-no-repeat -z-10"></div>
         {/* background image word engineering */}
         <div className="bg-engineering absolute md:h-250 2xl:h-300 md:w-screen bg-center bg-contain bg-no-repeat md:-z-20"></div>
         {/* section 1 */}
-        <section className="container pt-72 2xl:pt-96">
+        <section className="absolute bottom-2 pl-1 md:container md:relative pt-80">
           <div className="px-2 md:w-2/3">
             <div className="text-gray-500 text-sm md:text-4xl 2xl:text-5xl md:my-6 tracking-widest">
               YOHEI SHIINA
