@@ -1,0 +1,44 @@
+.blog {
+  // fomt-family
+  // noto hiragino sans
+  font-family: "Noto, Hiragino Sans, Helvetica, Arial, sans-serif";
+  font-size: 17px;
+  -webkit-font-smoothing: antialiased;
+  line-height: 2;
+  text-rendering: optimizeLegibility; // 要チェック
+  -webkit-text-size-adjust: 100%; // 要チェック
+  color: #333;
+
+  h1 {
+    font-weight: 600;
+    font-size: 25px;
+    color: #7B7B7B;
+    margin: 40px 0;
+    text-align: center;
+  }
+
+  h2 {
+    padding: 20px 40px 18px;
+    border-left: 9px solid #4865b2;
+    background: #f7f7f7;
+    margin: 40px 0;
+  }
+
+  h3 {
+    padding: 0 40px;
+    border-left: 9px solid #4865b2;
+    margin: 40px 0;
+  }
+
+  pre {
+    background: rgb(0, 0, 0);
+    padding: 10px 20px;
+    margin: 40px 0;
+  }
+
+  code {
+    color: white;
+  }
+
+
+}
