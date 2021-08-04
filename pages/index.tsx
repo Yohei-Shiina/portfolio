@@ -14,7 +14,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {/* full screen in both height and width */}
-      <div className="h-screen w-screen">
+      <section className="h-screen w-screen">
         {/* Header */}
         <div className="nav pt-5 px-5">
           <div className="flex justify-between">
@@ -38,7 +38,7 @@ export default function Home() {
         {/* background image word engineering */}
         <div className="bg-engineering absolute md:h-250 2xl:h-300 md:w-screen bg-center bg-contain bg-no-repeat md:-z-20"></div>
         {/* section 1 */}
-        <section className="absolute bottom-2 pl-1 md:container md:relative pt-80">
+        <div className="absolute bottom-2 pl-1 md:container md:relative pt-80">
           <div className="px-2 md:w-2/3">
             <div className="text-gray-500 text-sm md:text-4xl 2xl:text-5xl md:my-6 tracking-widest">
               YOHEI SHIINA
@@ -53,8 +53,13 @@ export default function Home() {
               up-and-coming software company.
             </p>
           </div>
-        </section>
-      </div>
+        </div>
+      </section>
+      <section className="bg-black h-screen w-screen">
+        <div className="container text-white">
+          <div className="text-center">WORKS</div>
+        </div>
+      </section>
     </div>
   );
 }
