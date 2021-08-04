@@ -14,6 +14,7 @@ type PartialProps = Partial<{}>;
 type Props = RequiredProps & PartialProps;
 
 const BlogPage: NextPage<Props> = (props: Props) => {
+  console.log(props.data)
   return (
     <div className={`container leading-9 ${styles.blog}`}>
       {props.data.contents.map((post: any) => {
